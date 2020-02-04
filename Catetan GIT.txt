@@ -1,0 +1,14 @@
+git init
+
+git log --oneline
+
+
+git add.
+
+git commit -m "Koment bebas"
+
+
+
+git remote add origin https://github.com/giran085/latihan_git_bandung.git
+
+git push origin master
